@@ -1,7 +1,5 @@
 mysql：
-  name:
-    123
+  user: 123
 
 person：
-  name:
-    123
+  name: 123
